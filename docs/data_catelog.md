@@ -70,4 +70,4 @@ Stores transactional sales records used for performance reporting, trend analysi
 ## Notes
 - **Dimension tables** provide descriptive business context.
 - **Fact tables** store measurable business events.
-- This structure supports easier reporting across customer, product, and sales-related questions. :contentReference[oaicite:4]{index=4}
+- This structure supports easier reporting across customer, product, and sales-related questions.
