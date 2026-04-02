@@ -89,12 +89,9 @@ sql-data-warehouse-project/
 ├── datasets/                           # Source datasets used in the project (ERP and CRM CSV files)
 │
 ├── docs/                               # Project documentation, diagrams, and reference materials
-│   ├── etl.drawio                      # ETL workflow diagrams
 │   ├── data_architecture.drawio        # High-level warehouse architecture
 │   ├── data_catalog.md                 # Dataset field definitions and metadata
-│   ├── data_flow.drawio                # Data flow diagram
-│   ├── data_models.drawio              # Star schema and model design
-│   ├── naming-conventions.md           # Naming standards for tables, columns, and files
+│   ├── data_integration.drawio         # Data flow diagram
 │
 ├── scripts/                            # SQL scripts for ingestion, transformation, and modeling
 │   ├── bronze/                         # Raw data load scripts
